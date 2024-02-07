@@ -5,7 +5,7 @@ var descrip = document.querySelector('description')
 var temp = document.querySelector('#temp')
 var wind = document.querySelector('#wind')
 
-apik = "c:\Users\harshitha\Downloads\weather.jpg4daf0268c666b6f325343d127cd334f8"
+apik = "4daf0268c666b6f325343d127cd334f8"
 
 function convertion(val){
     return (val - 273).toFixed(3)
